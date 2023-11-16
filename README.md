@@ -13,4 +13,5 @@ This is a  project  with React.
 - [Vite — GitHub](https://github.com/vitejs/vite)
 - [Vite — Docs](https://vitejs.dev/guide/)
 
-need to go to card dieectory and run npm start
+need to go to cart directory >>src>>components and app.js.\
+run npm start
